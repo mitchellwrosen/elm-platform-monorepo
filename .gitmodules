@@ -1,0 +1,15 @@
+[submodule "elm-compiler"]
+	path = elm-compiler
+	url = https://github.com/elm-lang/elm-compiler.git
+[submodule "elm-package"]
+	path = elm-package
+	url = https://github.com/elm-lang/elm-package.git
+[submodule "elm-make"]
+	path = elm-make
+	url = https://github.com/elm-lang/elm-make
+[submodule "elm-reactor"]
+	path = elm-reactor
+	url = https://github.com/elm-lang/elm-reactor.git
+[submodule "elm-repl"]
+	path = elm-repl
+	url = https://github.com/elm-lang/elm-repl

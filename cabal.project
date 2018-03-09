@@ -1,0 +1,8 @@
+packages:
+  elm-compiler
+  elm-make
+  elm-package
+  elm-reactor
+  elm-repl
+jobs: 2
+with-compiler: ghc-7.10.3
