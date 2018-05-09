@@ -4,5 +4,5 @@ packages:
   elm-package
   elm-reactor
   elm-repl
-jobs: 2
+jobs: $ncpus
 with-compiler: ghc-7.10.3
